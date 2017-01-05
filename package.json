@@ -1,0 +1,26 @@
+{
+  "name": "learn-hapi.js",
+  "version": "1.0.0",
+  "description": "learn hapi.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreamerKing/learn-hapi.js.git"
+  },
+  "keywords": [
+    "hapi",
+    "hapi.js"
+  ],
+  "author": "DreamerKing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DreamerKing/learn-hapi.js/issues"
+  },
+  "homepage": "https://github.com/DreamerKing/learn-hapi.js#readme",
+  "dependencies": {
+    "hapi": "^16.1.0"
+  }
+}
